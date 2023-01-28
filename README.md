@@ -39,5 +39,5 @@ Tengo conocimiento en desarrollo nativo Android y desarollo de videojuegos con U
 
 - 🌱 Estoy aprendiendo Clean Architecture, TypeScript, RxJS
 - 📫 [Linkedin](https://www.linkedin.com/in/andres-felipe-gonzalez-silva-09b43713a/)
-- ⚡ [Portafolio](https://andres-gonzalez-portfolio.netlify.app/)
+- ⚡ [Portafolio](https://pardodev.com/)
 
