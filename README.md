@@ -40,6 +40,6 @@ Llevo programando desde los 13 años de forma autonoma, en proyectos propios com
 Tengo conocimiento en desarrollo nativo Android y desarollo de videojuegos con Unity.
 
 - 🌱 Estoy aprendiendo Angular
-- 📫 [Linkedin](https://www.linkedin.com/in/andres-felipe-gonzalez-silva-09b43713a/)
+- 📫 [Linkedin](https://www.linkedin.com/in/andres-felipe-gonzalez-silva/)
 - ⚡ [Portafolio](https://pardodev.com/)
 
