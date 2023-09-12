@@ -13,10 +13,12 @@ Este es mi repositorio, donde guardo la mayoria de mis proyectos, y puedes ver c
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="icono tecnologia" width="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="icono tecnologia" width="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.js" alt="icono tecnologia" width="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" title="Nest" alt="icono tecnologia" width="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="TypeScript" alt="icono tecnologia" width="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" title="Node.js" alt="icono tecnologia" width="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="icono tecnologia" width="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg" title="MongoDB" alt="icono tecnologia" width="40">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="MySql" alt="icono tecnologia" width="40">
+    <img src="https://www.svgrepo.com/show/303503/shopify-logo.svg" title="Shopify" alt="icono tecnologia" width="40">
 </div>
 
 #### He trabajado y conozco, pero estoy desactualizado
@@ -37,7 +39,7 @@ Llevo programando desde los 13 años de forma autonoma, en proyectos propios com
 
 Tengo conocimiento en desarrollo nativo Android y desarollo de videojuegos con Unity.
 
-- 🌱 Estoy aprendiendo Clean Architecture, TypeScript, RxJS
+- 🌱 Estoy aprendiendo Angular
 - 📫 [Linkedin](https://www.linkedin.com/in/andres-felipe-gonzalez-silva-09b43713a/)
 - ⚡ [Portafolio](https://pardodev.com/)
 
